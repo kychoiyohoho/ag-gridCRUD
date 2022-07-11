@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "wow11111",
+      "email": "wow@naver.com",
+      "phone": "01010101",
+      "dob": "900522"
+    },
+    {
+      "name": "최경진",
+      "email": "naver.com",
+      "phone": "01011234",
+      "dob": "19870221",
+      "id": 2
+    },
+    {
+      "name": "김민정",
+      "email": "wownaver.com",
+      "phone": "0109982",
+      "dob": "19940322",
+      "id": 3
+    },
+    {
+      "name": "Welcome",
+      "email": "naver.com",
+      "phone": "0102223",
+      "dob": "1990233",
+      "id": 4
+    }
+  ]
+}
